@@ -6,7 +6,7 @@ Source code for a Cartoonisation technique that makes use of the Opencv library.
 
 ### Cartoonisation: 
 
-Cartoonisation is a process that transforms regular images into stylized, simplified versions that resemble cartoon drawings. This is important in neuroprosthesis as there is a trade-off for importance, meaning that certain objects must be detected and others can be disregarded. Cartoonization, when applied to visual prosthetics (neuroprostheses for vision), can be beneficial due to several reasons related to the way it simplifies visual data and the unique requirements of these devices, as explored below: 
+Cartoonisation is a process that transforms regular images into stylized, simplified versions that resemble cartoon drawings. This is important in neuroprosthesis as there is a trade-off for importance, meaning that certain objects must be detected and others can be disregarded. Cartoonisation, when applied to visual prosthetics (neuroprostheses for vision), can be beneficial due to several reasons related to the way it simplifies visual data and the unique requirements of these devices, as explored below: 
 
 ### Why Cartoonisation? 
 
