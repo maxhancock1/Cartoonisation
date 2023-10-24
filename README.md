@@ -10,9 +10,9 @@ Cartoonisation is a process that transforms regular images into stylized, simpli
 
 ### Why Cartoonisation? 
 
-+ Avoiding Overstimulation: Overloading the brain with too much information, especially when it's not used to processing visual data, can be overwhelming or even counterproductive. Cartoonised images can help avoid this problem by delivering only the most essential visual data.
-+ Energy Efficiency: Transmitting simplified visual data could reduce the power consumption of implantable devices, which is a significant focus point for neuroprostheses.
-+ Enhanced Contrast: Cartoonised images emphasise edges and contrast, which is useful in visual prosthetics. Higher contrast can make objects and people stand out more clearly against backgrounds, aiding in navigation and object recognition.
++ Avoid Overstimulation: Overloading the brain with too much information, especially when it's not used to processing visual data, can be overwhelming or even counterproductive. Cartoonised images can help avoid this problem by delivering only the most essential visual data.
++ Energy Efficient: Transmitting simplified visual data could reduce the power consumption of implantable devices, which is a significant focus point for neuroprostheses.
++ Enhance Contrast: Cartoonised images emphasise edges and contrast, which is useful in visual prosthetics. Higher contrast can make objects and people stand out more clearly against backgrounds, aiding in navigation and object recognition.
 
 ### Pre-Cartoonisation: 
 ![plot](Images/cartoon.png)
