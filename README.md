@@ -6,12 +6,18 @@ Source code for a Cartoonisation technique that makes use of the Opencv library.
 
 ### Cartoonisation: 
 
-Cartoonisation works by recognising boundaries so that an image can be segmented and individual objects can be identified. This is important in neuroprosthesis as there is a trade-off for importance, meaning that certain objects must be detected and others can be disregarded. 
+Cartoonisation is a process that transforms regular images into stylized, simplified versions that resemble cartoon drawings. This is important in neuroprosthesis as there is a trade-off for importance, meaning that certain objects must be detected and others can be disregarded. Cartoonization, when applied to visual prosthetics (neuroprostheses for vision), can be beneficial due to several reasons related to the way it simplifies visual data and the unique requirements of these devices, as explored below: 
 
+### Why Cartoonisation? 
 
++ Avoiding Overstimulation: Overloading the brain with too much information, especially when it's not used to processing visual data, can be overwhelming or even counterproductive. Cartoonised images can help avoid this problem by delivering only the most essential visual data.
++ Energy Efficiency: Transmitting simplified visual data could reduce the power consumption of implantable devices, which is a significant focus point for neuroprostheses.
++ Enhanced Contrast: Cartoonised images emphasise edges and contrast, which is useful in visual prosthetics. Higher contrast can make objects and people stand out more clearly against backgrounds, aiding in navigation and object recognition.
+
+### Pre-Cartoonisation: 
 ![plot](Images/cartoon.png)
 
 
 
-
+### Post-Cartoonisation:
 ![plot](Images/output.png)
